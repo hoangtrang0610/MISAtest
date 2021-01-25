@@ -1,0 +1,27 @@
+table th, td {
+    border-bottom: 1px solid #cccccc;
+    padding: 10px 16px;
+    text-align: left;
+    text-overflow: Ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    max-width: 200px;
+}
+table th{
+    position: sticky;
+    top: 0;
+    background-color: #ffffff;
+}
+table tbody tr:nth-child(even) {
+    background-color: #f3f3f3;
+}
+
+.grid {
+    width: 100%;
+    overflow: hidden;
+    table-layout: fixed;
+    height: 100%;
+    overflow-x: scroll;
+    overflow-y: scroll;
+}
+

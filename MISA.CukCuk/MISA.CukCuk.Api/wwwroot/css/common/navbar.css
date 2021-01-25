@@ -1,0 +1,85 @@
+﻿.navbar {
+    float: left;
+    width: 220px;
+    height: 100vh;
+    background-color: #ffffff;
+    border-right: 1px solid #e5e5e5;
+}
+
+    .navbar .logo-site {
+        display: flex;
+        width: 100%;
+        height: 60px;
+    }
+
+    .navbar .logo-box {
+        display: flex;
+        padding-top:18px;
+        padding-left: 24px;
+    }
+
+    /*logo page*/
+    .navbar .logo-site .toggle-icon {
+        width: 24px;
+        height: 24px;
+        padding-right: 10px;
+        background-image: url('/content/img/toggle.png');
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+
+    .navbar .logo-site .cukcuk-logo {
+        width: 100px;
+        background-image: url('/content/img/cukcuk-logo.png');
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+
+    .navbar .navbar-content {
+        width: 100%;
+    }
+
+        .navbar .navbar-content .nav-item {
+            display: flex;
+            padding-left: 24px;
+            height: 44px;
+            line-height: 44px;
+            cursor: pointer;
+        }
+
+            .navbar .navbar-content .nav-item:hover {
+                background-color: #e5e5e5;
+                color: #000000;
+            }
+
+            .navbar .navbar-content .nav-item:focus {
+                background-color: #019160;
+                font-family: GoogleSans-Medium;
+                color: #ffffff;
+            }
+
+@font-face {
+    font-family: 'GoogleSans-Medium';
+    src: url('../../content/font/GoogleSans-Medium.otf') format('opentype');
+}
+
+.nav-item .nav-item-icon {
+    width: 20px;
+    height: 20px;
+    align-self: center;
+    margin-right: 10px;
+    background-image: url('/content/icon/dashboard.png');
+    background-size: contain;
+}
+
+.icon-report {
+    background-image: url('/content/icon/report.png') !important;
+}
+
+.icon-employee {
+    background-image: url('../../content/icon/dic-employee.png') !important;
+}
+
+.icon-setting {
+    background-image: url('../../content/icon/setting.png') !important;
+}

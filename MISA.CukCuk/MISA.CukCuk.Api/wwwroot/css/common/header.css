@@ -1,0 +1,49 @@
+﻿.header {
+    float: left;
+    width: calc(100% - 221px);
+    height: 60px;
+    border-bottom: 1px solid #e5e5e5;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header-title {
+    padding-left: 24px;
+}
+
+select {
+    -webkit-padding-end: 10px;
+}
+
+.header-title .header-title-select {
+    font-weight: bold !important;
+    border: 1px solid #ffffff;
+}
+
+.header .acount-infor {
+    padding-right: 16px;
+    display: flex;
+}
+
+    .header .acount-infor .acount-avatar {
+        width: 30px;
+        height: 30px;
+        background-image: url('/content/icon/avatar-default.png');
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+
+    .header .acount-infor .acount-name {
+        margin: 0 16px;
+        align-self: center;
+    }
+
+    .header .acount-infor .acount-option {
+        width: 16px;
+        height: 16px;
+        background-image: url('/content/icon/option.png');
+        background-size: contain;
+        background-repeat: no-repeat;
+        align-self: center;
+    }

@@ -1,0 +1,37 @@
+.content {
+    position: absolute;
+    top: 61px;
+    left: 221px;
+    width: calc(100% - 221px);
+    height: calc(100vh - 61px);
+    padding: 16px;
+    box-sizing: border-box;
+}
+    /*header content*/
+    .content .header-content {
+        display: flex;
+        align-items: center;
+        padding: 16px;
+    }
+
+        .content .header-content .title{
+            font-size:  20px;
+            font-weight: bold;
+        }
+
+        .content .header-content .content-feature{
+            position: absolute;
+            right: 16px;
+        }
+        /*filter bar*/
+        .content .filter-bar {
+        }
+    /*grid*/
+   
+    /*paging-bar*/
+    .content .paging-bar {
+        height: 56px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }

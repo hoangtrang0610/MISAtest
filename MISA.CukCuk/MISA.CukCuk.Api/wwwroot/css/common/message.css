@@ -1,0 +1,20 @@
+.messenger {
+    position: absolute;
+    top: 0;
+    right: 0;
+    border-radius: 4px;
+    font-size: 11px;
+    width: 150px;
+    height: 32px;
+    line-height: 32px;
+    text-align: center;
+    background-color: #BAFFE7;
+}
+
+#msg-faild, #msg-data {
+    background-color: #FFCECE;
+}
+
+#msg-success, #msg-faild, #msg-refress, #msg-data, #msg-update, #msg-delete {
+    display: none;
+}

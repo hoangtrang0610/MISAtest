@@ -1,0 +1,191 @@
+/* ==================css cho jquery dialog================*/
+.ui-dialog .ui-dialog-content {
+    background: none repeat scroll 0 0 transparent;
+    border: 0 none;
+    overflow: auto;
+    position: relative;
+    padding: 0 !important;
+}
+/*header dialog*/
+.ui-widget-header {
+    /*Change the Header color here*/
+    background: #fff;
+    border: 0;
+    color: #000000;
+}
+
+.ui-dialog .ui-dialog-titlebar {
+    margin: 24px 24px 0 24px;
+    font-weight: bold;
+    position: relative;
+    font-size: 20px;
+    padding: 0;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+/*button dialod*/
+.ui-button {
+    position: absolute !important;
+    top: -14px !important;
+    right: -24px !important;
+    border: none;
+    background-color: #EFEFEF;
+}
+
+    .ui-button:hover {
+        background-color: #cccccc;
+    }
+
+.ui-dialog .ui-dialog-titlebar-close {
+    width: 40px !important;
+    height: 40px !important;
+}
+/* ================End css cho jquery dialog================*/
+
+
+.m-dialog {
+    color: #000000;
+}
+    /*
+    .m-dialog .dialog-modal {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-color: black;
+        
+        opacity: 0.5;
+    }*/
+
+    .m-dialog .dialog-content {
+        position: absolute;
+        width: 800px;
+        height: 500px;
+        background-color: #ffffff;
+        z-index: 1000;
+        top: calc((100vh - 587px)/2);
+        left: calc(50% - 400px);
+        border-radius: 5px;
+    }
+
+    .m-dialog .dialog-body {
+        padding: 0px 8px 24px 24px;
+    }
+
+
+/*thông tin form*/
+
+input {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.dialog-infor {
+    display: flex;
+    width: 100%;
+}
+
+.dialog-img {
+    text-align: center;
+}
+
+.dialog-img-content {
+    width: 160px;
+    height: 160px;
+    background-image: url('../../content/img/default-avatar.png');
+    background-size: contain;
+    border: 1px solid #bbbbbb;
+    border-radius: 50%;
+    margin: 16px auto 0;
+}
+
+.dialog-infor-box {
+    flex: 1;
+    margin: 0 16px 0 0;
+}
+
+    .dialog-infor-box .m-control select {
+        width: 100%;
+        padding: 10px 0;
+    }
+
+input[type="date"] {
+    padding: 8px 0 !important;
+}
+
+select {
+    padding: 9px 0;
+    border: 1px solid #bbbbbb;
+    border-radius: 4px;
+}
+
+.gender {
+    margin: 10px 0;
+}
+
+    .gender input {
+        width: auto !important;
+    }
+
+.dialog-infor_content {
+    display: flex;
+    width: 100%;
+}
+
+.dialog-infor_content-left {
+    flex: 2;
+    margin-right: 16px;
+}
+
+
+.dialog-infor_content-right {
+    flex: 1;
+    margin-right: 16px;
+}
+
+.dialog-address {
+    margin-right: 16px;
+}
+
+input:focus {
+    border: 1px solid #019160;
+}
+
+/*button dialog*/
+
+.dialog-button {
+    height: 60px;
+    line-height: 60px;
+    background-color: #cccccc;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+    .dialog-button .btn-right {
+        margin-right: 24px;
+    }
+
+    .dialog-button button {
+        margin-left: 16px;
+    }
+
+/*
+    #dialog{
+        display: none
+
+    }*/
+
+
+.show-dialog {
+    opacity: 1;
+    visibility: visible;
+}
+
+.hide-dialog {
+    opacity: 0;
+    visibility: hidden;
+}

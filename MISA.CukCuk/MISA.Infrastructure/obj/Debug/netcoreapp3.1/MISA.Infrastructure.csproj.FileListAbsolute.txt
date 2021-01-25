@@ -1,0 +1,48 @@
+C:\Users\httrang\Desktop\MISA.CukCuk.Api\MISA.CukCuk\MISA.Infrastructure\bin\Debug\netcoreapp3.1\MISA.Infrastructure.deps.json
+C:\Users\httrang\Desktop\MISA.CukCuk.Api\MISA.CukCuk\MISA.Infrastructure\bin\Debug\netcoreapp3.1\MISA.Infrastructure.dll
+C:\Users\httrang\Desktop\MISA.CukCuk.Api\MISA.CukCuk\MISA.Infrastructure\bin\Debug\netcoreapp3.1\MISA.Infrastructure.pdb
+C:\Users\httrang\Desktop\MISA.CukCuk.Api\MISA.CukCuk\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.csprojAssemblyReference.cache
+C:\Users\httrang\Desktop\MISA.CukCuk.Api\MISA.CukCuk\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\httrang\Desktop\MISA.CukCuk.Api\MISA.CukCuk\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.AssemblyInfo.cs
+C:\Users\httrang\Desktop\MISA.CukCuk.Api\MISA.CukCuk\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\httrang\Desktop\MISA.CukCuk.Api\MISA.CukCuk\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.dll
+C:\Users\httrang\Desktop\MISA.CukCuk.Api\MISA.CukCuk\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.pdb
+C:\Users\httrang\Desktop\MISA.CukCuk.Api\MISA.CukCuk\MISA.Infrastructure\bin\Debug\netcoreapp3.1\MISA.Entity.dll
+C:\Users\httrang\Desktop\MISA.CukCuk.Api\MISA.CukCuk\MISA.Infrastructure\bin\Debug\netcoreapp3.1\MISA.Entity.pdb
+C:\Users\httrang\Desktop\MISA.CukCuk.Api\MISA.CukCuk\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.csproj.CopyComplete
+C:\Users\httrang\Desktop\misaapi\MISA.CukCuk\MISA.Infrastructure\bin\Debug\netcoreapp3.1\MISA.Infrastructure.deps.json
+C:\Users\httrang\Desktop\misaapi\MISA.CukCuk\MISA.Infrastructure\bin\Debug\netcoreapp3.1\MISA.Infrastructure.dll
+C:\Users\httrang\Desktop\misaapi\MISA.CukCuk\MISA.Infrastructure\bin\Debug\netcoreapp3.1\MISA.Infrastructure.pdb
+C:\Users\httrang\Desktop\misaapi\MISA.CukCuk\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.csprojAssemblyReference.cache
+C:\Users\httrang\Desktop\misaapi\MISA.CukCuk\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\httrang\Desktop\misaapi\MISA.CukCuk\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.AssemblyInfo.cs
+C:\Users\httrang\Desktop\misaapi\MISA.CukCuk\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\httrang\Desktop\misaapi\MISA.CukCuk\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.csproj.CopyComplete
+C:\Users\httrang\Desktop\misaapi\MISA.CukCuk\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.dll
+C:\Users\httrang\Desktop\misaapi\MISA.CukCuk\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.pdb
+C:\Users\httrang\Desktop\misaapi\MISA.CukCuk\MISA.Infrastructure\bin\Debug\netcoreapp3.1\MISA.ApplicationCore.dll
+C:\Users\httrang\Desktop\misaapi\MISA.CukCuk\MISA.Infrastructure\bin\Debug\netcoreapp3.1\MISA.ApplicationCore.pdb
+C:\Users\Hoang Trang\Downloads\misaapi-master\misaapi-master\MISA.CukCuk\MISA.Infrastructure\bin\Debug\netcoreapp3.1\MISA.Infrastructure.deps.json
+C:\Users\Hoang Trang\Downloads\misaapi-master\misaapi-master\MISA.CukCuk\MISA.Infrastructure\bin\Debug\netcoreapp3.1\MISA.Infrastructure.dll
+C:\Users\Hoang Trang\Downloads\misaapi-master\misaapi-master\MISA.CukCuk\MISA.Infrastructure\bin\Debug\netcoreapp3.1\MISA.Infrastructure.pdb
+C:\Users\Hoang Trang\Downloads\misaapi-master\misaapi-master\MISA.CukCuk\MISA.Infrastructure\bin\Debug\netcoreapp3.1\MISA.ApplicationCore.dll
+C:\Users\Hoang Trang\Downloads\misaapi-master\misaapi-master\MISA.CukCuk\MISA.Infrastructure\bin\Debug\netcoreapp3.1\MISA.ApplicationCore.pdb
+C:\Users\Hoang Trang\Downloads\misaapi-master\misaapi-master\MISA.CukCuk\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Hoang Trang\Downloads\misaapi-master\misaapi-master\MISA.CukCuk\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Hoang Trang\Downloads\misaapi-master\misaapi-master\MISA.CukCuk\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.AssemblyInfo.cs
+C:\Users\Hoang Trang\Downloads\misaapi-master\misaapi-master\MISA.CukCuk\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Trang\Downloads\misaapi-master\misaapi-master\MISA.CukCuk\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.csproj.CopyComplete
+C:\Users\Hoang Trang\Downloads\misaapi-master\misaapi-master\MISA.CukCuk\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.dll
+C:\Users\Hoang Trang\Downloads\misaapi-master\misaapi-master\MISA.CukCuk\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.pdb
+C:\Users\httrang\Downloads\WEB2021_01_HTTRANG-20210125T031353Z-001\WEB2021_01_HTTRANG\MISA.CukCuk\MISA.Infrastructure\bin\Debug\netcoreapp3.1\MISA.Infrastructure.deps.json
+C:\Users\httrang\Downloads\WEB2021_01_HTTRANG-20210125T031353Z-001\WEB2021_01_HTTRANG\MISA.CukCuk\MISA.Infrastructure\bin\Debug\netcoreapp3.1\MISA.Infrastructure.dll
+C:\Users\httrang\Downloads\WEB2021_01_HTTRANG-20210125T031353Z-001\WEB2021_01_HTTRANG\MISA.CukCuk\MISA.Infrastructure\bin\Debug\netcoreapp3.1\MISA.Infrastructure.pdb
+C:\Users\httrang\Downloads\WEB2021_01_HTTRANG-20210125T031353Z-001\WEB2021_01_HTTRANG\MISA.CukCuk\MISA.Infrastructure\bin\Debug\netcoreapp3.1\MISA.ApplicationCore.dll
+C:\Users\httrang\Downloads\WEB2021_01_HTTRANG-20210125T031353Z-001\WEB2021_01_HTTRANG\MISA.CukCuk\MISA.Infrastructure\bin\Debug\netcoreapp3.1\MISA.ApplicationCore.pdb
+C:\Users\httrang\Downloads\WEB2021_01_HTTRANG-20210125T031353Z-001\WEB2021_01_HTTRANG\MISA.CukCuk\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.csprojAssemblyReference.cache
+C:\Users\httrang\Downloads\WEB2021_01_HTTRANG-20210125T031353Z-001\WEB2021_01_HTTRANG\MISA.CukCuk\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\httrang\Downloads\WEB2021_01_HTTRANG-20210125T031353Z-001\WEB2021_01_HTTRANG\MISA.CukCuk\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.AssemblyInfo.cs
+C:\Users\httrang\Downloads\WEB2021_01_HTTRANG-20210125T031353Z-001\WEB2021_01_HTTRANG\MISA.CukCuk\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\httrang\Downloads\WEB2021_01_HTTRANG-20210125T031353Z-001\WEB2021_01_HTTRANG\MISA.CukCuk\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.csproj.CopyComplete
+C:\Users\httrang\Downloads\WEB2021_01_HTTRANG-20210125T031353Z-001\WEB2021_01_HTTRANG\MISA.CukCuk\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.dll
+C:\Users\httrang\Downloads\WEB2021_01_HTTRANG-20210125T031353Z-001\WEB2021_01_HTTRANG\MISA.CukCuk\MISA.Infrastructure\obj\Debug\netcoreapp3.1\MISA.Infrastructure.pdb

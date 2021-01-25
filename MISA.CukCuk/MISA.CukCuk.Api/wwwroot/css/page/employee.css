@@ -1,0 +1,40 @@
+.content .grid{
+    height: calc(100vh - 230px);
+}
+.dialog-img{
+    flex: 2;
+}
+.dialog-infor-box-left{
+    flex: 3;
+}
+.dialog-infor-box-right{
+    flex: 3;
+    padding-top: 43px;
+}
+.m-dialog .dialog-content {
+    height: auto;
+    top: calc((100vh - 90vh)/2);
+}
+.dialog-infor-title {
+    text-transform: uppercase;
+    font-weight: 200;
+    margin-block-end: 3px;
+    margin-top: 20px;
+}
+
+.border-title-bottom {
+    width: 70px;
+    height: 4px;
+    background-color: #2FBE8E;
+    border-radius: 3px;
+}
+.padding{
+    padding-bottom: 43px;
+    padding-top: 74px;
+}
+.currency-for-input {
+    position: absolute;
+    right: 40px;
+    line-height: 40px;
+    font-style: italic;
+}

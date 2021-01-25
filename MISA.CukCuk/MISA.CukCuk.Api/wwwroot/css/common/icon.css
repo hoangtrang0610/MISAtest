@@ -1,0 +1,19 @@
+﻿.icon-add {
+    width: 16px;
+    height: 16px;
+    background-image: url('/content/icon/add.png');
+}
+
+.icon-search {
+    background-image: url('/content/icon/search.png');
+    background-repeat: no-repeat;
+    background-position: 16px center;
+}
+
+.icon-save {
+    width: 16px;
+    height: 16px;
+    background-image: url('/content/icon/document-online.png');
+    background-size: cover;
+}
+
